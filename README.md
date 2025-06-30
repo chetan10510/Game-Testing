@@ -40,9 +40,9 @@ Tested Games
 ------------
 
 | Game                               | Settings Tested     | Status      | Report Path                               |
-|------------------------------------|----------------------|-------------|-------------------------------------------|
-| ARK: Survival Evolved              | Medium / High        | Completed   | ark-survival-evolved/performance.md       |
-| Serious Sam Fusion 2017           | To be tested         | Pending     | —                                         |
+|------------------------------------|---------------------|------------|-------------------------------------------|
+| ARK: Survival Evolved              | Medium / High       | Completed   | ark-survival-evolved/performance.md       |
+| Serious Sam Fusion 2017           | To be tested         | Completed   | —                                         |
 | Serious Sam: The Random Encounter | To be tested         | Pending     | —                                         |
 | Attack on Titan: Wings of Freedom | To be tested         | Pending     | —                                         |
 | Sniper Ghost Warrior Contracts 2  | To be tested         | Pending     | —                                         |
