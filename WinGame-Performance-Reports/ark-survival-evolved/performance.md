@@ -1,30 +1,28 @@
-Performance Report: ARK Survival Evolved
+Performance Report: ARK - High Settings
 
-System Specs: 
-- Ryzen 7 5800HS  
-- GTX 1650  
-- 16 GB RAM  
-- PresentMon 2.3.1, MSI Afterburner
+Game: ARK: Survival Evolved  
+Settings: High  
+Duration: Approximately 15 minutes  
+Platform: Windows 10 ARM, Ryzen 7 5800HS, GTX 1650, 16GB RAM  
+Logging Tool: PresentMon  
+Overlay: MSI Afterburner (RTSS)
+Tool: Eventvwr
 
-Tested Scenarios:
-- Medium and High Settings
-- Multiplayer (Non-Dedicated Session)
-- Crash Reproduction Attempt
+Performance Metrics:  
+Average FPS: 70.90  
+1% Low FPS: 18.41  
+0.1% Low FPS: 7.03  
+Total Frames Captured: 31,768  
+Session Duration: 711.59 seconds
 
----
+Graph: high_settings_fps_plot.png
 
-FPS Summary
+Observations:  
+Gameplay was mostly smooth with occasional stutters in open environments.  
+Frame pacing was inconsistent in dense foliage and combat-heavy sequences.  
+GPU temperatures remained within safe limits, with no signs of thermal throttling.  
+No bugs or texture artifacts observed during this session.  
+Crash occurred in a separate session after extended gameplay.
 
-| Configuration        | Avg FPS | 1% Low | 0.1% Low |
-|----------------------|---------|--------|----------|
-| Medium Settings       | 124.74  | 27.35  | 6.62     |
-| High Settings         | 70.90   | 18.41  | 7.03     |
-| Crash Session         | 178.00  | 12.20  | 4.83     |
-
----
-
-FPS Graphs
-
-- [Done](medium_settings_fps_plot.png)  
-- [Done](high_settings_fps_plot.png)  
-- [Done](crash_session_fps_plot.png)
+Conclusion:  
+Playable at high settings, but minor frame drops in certain areas could impact responsiveness during combat. Recommended to optimize for smoother frame pacing on long sessions.
